@@ -1,0 +1,10 @@
+PassengerId,Name,Age,Sex,Fare,Embarked,Survived,Age_Group,Fare_Band
+1,John,22.0,male,7.25,S,0,Adult,Low
+2,Anna,28.0,female,71.83,C,1,Adult,High
+3,Mike,24.0,male,8.05,S,1,Adult,Low
+4,Sara,35.0,female,22.012857142857143,S,1,Adult,Low
+5,Tom,28.0,male,8.46,S,0,Adult,Low
+6,Eva,28.0,female,13.0,S,1,Adult,Low
+7,Raj,40.0,male,30.0,Q,0,Senior,Medium
+8,Lina,19.0,female,22.012857142857143,S,1,Adult,Low
+9,Chris,30.0,male,15.5,C,0,Adult,Low

@@ -1,0 +1,5 @@
+Task 8 – SQL Window Functions Insights
+
+1. A small group of customers contributes the majority of total sales, indicating high-value segments.
+2. Running totals show consistent growth over time with seasonal peaks.
+3. Top 3 products in each category generate most revenue, guiding marketing and inventory focus.

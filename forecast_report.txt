@@ -1,0 +1,5 @@
+Forecasting Report
+=================
+MAE: 11085.34571624963
+MAPE: 15.54196131032156
+Model Used: Exponential Smoothing
